@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GleyPlugins/Ads/Example/Implementation.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
