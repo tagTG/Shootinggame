@@ -1,1 +1,1 @@
-I created this project and working for initizalizing ads 
+This project is tested with [BrowserStack](https://www.browserstack.com/)
